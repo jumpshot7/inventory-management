@@ -24,8 +24,6 @@ To ensure security and maintain best practices, I hid the Firestore API keys by 
   
 - **Real-Time Data**: Leveraging Firestore, the application features real-time data updates, ensuring that users always see the most current information without needing to refresh the page.
   
-- **User Authentication**: Firebase Authentication is used to manage user sign-ups and logins, providing a secure and streamlined user experience.
-  
 - **Easy Deployment**: Thanks to Vercel, the deployment process is automated, and the application is continuously deployed with every code update.
 
 ## Learning Outcomes
