@@ -71,7 +71,7 @@ export default function Home() {
       flexDirection="column"
       justifyContent="center"
       alignItems="center"
-      gap={2}
+      gap={3}
     >
       {/* Modal for adding a new item */}
       <Modal open={open} onClose={handleClose}>
